@@ -1,0 +1,22 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "* metod för att enkelt och logiskt hämta resurser asynkront på nätverket\r * Ersätter XMLHttpRequest\r * Hanterar CORS\r * `fetch()` returnerar en promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johansundstrom/fetch.git"
+  },
+  "author": "Johan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johansundstrom/fetch/issues"
+  },
+  "homepage": "https://github.com/johansundstrom/fetch#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
